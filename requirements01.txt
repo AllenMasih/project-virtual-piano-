@@ -1,0 +1,1 @@
+opencv-python cvzone pygame numpy mediapipe threading
